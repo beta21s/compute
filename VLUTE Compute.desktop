@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=VLUTE Compute
+Comment=VLUTE Compute
+Exec=python3 /opt/compute/run.py
+Icon=/opt/compute/vlute.png
+Path=/opt/compute
+Terminal=false
+Type=Application
+Categories=Utility;Application;
